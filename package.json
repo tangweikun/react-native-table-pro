@@ -1,0 +1,28 @@
+{
+  "name": "react-native-table-pro",
+  "version": "1.0.0",
+  "description": "table for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangweikun/react-native-table-pro.git"
+  },
+  "keywords": [
+    "react-native",
+    "table"
+  ],
+  "author": "tangweikun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangweikun/react-native-table-pro/issues"
+  },
+  "homepage": "https://github.com/tangweikun/react-native-table-pro#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-native": "^0.47.1",
+    "styled-components": "^2.1.2"
+  }
+}
