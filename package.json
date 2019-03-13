@@ -22,7 +22,7 @@
   "homepage": "https://github.com/tangweikun/react-native-table-pro#readme",
   "dependencies": {
     "react": "^15.6.1",
-    "react-native": "^0.47.1",
+    "react-native": "^0.59.0",
     "styled-components": "^2.1.2"
   }
 }
